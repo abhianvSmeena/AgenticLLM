@@ -1,6 +1,3 @@
-# AgenticLLM
-
-
 # Agentic AI Research Assistant 🤖
 
 This project implements an autonomous AI agent that performs research assistance using Large Language Models (LLMs).
@@ -16,9 +13,9 @@ This project implements an autonomous AI agent that performs research assistance
 ## Setup
 
 1. Install Ollama from https://ollama.com
-2. Pull the Phi-3 model:
-3. Install Python dependencies:
-4. Run the agent:
+2. Pull the Phi-3 model: ollama pull phi3
+3. Install Python dependencies on cmd: pip install pymupdf gradio ollama
+4. Run the agent python file
 
 
 
